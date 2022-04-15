@@ -1,5 +1,5 @@
-# awesome-pdf
-An awesomelist for PDF
+# Awesome PDF  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+A curated list of resources around PDF files
 
 ## The File Format
 
@@ -21,7 +21,7 @@ An awesomelist for PDF
     * [pdfplumber](https://github.com/jsvine/pdfplumber): Plumb a PDF for detailed information about each text character, rectangle, and line. Plus: Table extraction and visual debugging.
 * [Tabula](https://github.com/tabulapdf/tabula): an application for extracting tables
 * [camelot](https://github.com/atlanhq/camelot): PDF Table Extraction
-
+* [awesome-document-understanding](https://github.com/tstanislawek/awesome-document-understanding): A curated list of resources for Document Understanding (DU) topic
 
 ## Generators
 
