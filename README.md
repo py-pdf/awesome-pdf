@@ -28,6 +28,7 @@ A curated list of resources around PDF files
 Anything that can produce PDF files from scratch:
 
 * pdflatex (e.g. in [TexLive](https://www.tug.org/texlive/)): A LaTeX-to-PDF converter
+* [reportlab](https://pypi.org/project/reportlab/): The ReportLab Toolkit. An Open Source Python library for generating PDFs and graphics.
 * [prawn](https://github.com/prawnpdf/prawn): a pure Ruby PDF generation library
 * [react-pdf](https://github.com/diegomura/react-pdf): Create PDF files using React
 * [markdown-pdf](https://github.com/alanshaw/markdown-pdf): Markdown to PDF converter
