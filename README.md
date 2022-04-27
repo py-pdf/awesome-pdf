@@ -47,6 +47,7 @@ Anything that's used to edit an existing PDF file:
 
 ## Multi-Purpose Libraries
 
+* [pdftk](https://www.pdflabs.com/tools/pdftk-server/): command-line tool for working with PDFs. It is commonly used for client-side scripting or server-side processing of PDFs.
 * [PyPDF2](https://pypi.org/project/PyPDF2/) ![](https://shields.io/badge/-extract-inactive) ![](https://shields.io/badge/-manipulate-inactive): a free and open-source pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
 * [pikepdf](https://github.com/pikepdf/pikepdf) ![](https://shields.io/badge/-extract-inactive) ![](https://shields.io/badge/-manipulate-inactive): a Python library for reading and writing PDF, powered by qpdf
 * [PyMuPDF](https://github.com/pymupdf/PyMuPDF) ![](https://shields.io/badge/-extract-inactive) ![](https://shields.io/badge/-manipulate-inactive): Python bindings for MuPDF's rendering library.
