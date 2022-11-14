@@ -5,6 +5,7 @@ A curated list of resources around PDF files
 
 * PDF Association: [PDF Specification Index](https://www.pdfa.org/resource/pdf-specification-index/), 2021.
 * Jindrich Kubec, Jiri Sejtko: [X is not enough! Grab the PDF by the tail!](https://www.virusbulletin.com/uploads/pdf/conference_slides/2011/Kubec-Sejtko-VB2011.pdf) at [Virus Bulletin](https://www.virusbulletin.com/), 2011.
+* Selected compilation of [PDF Standards](standard/) from the [Adobe Open Source Reference](https://opensource.adobe.com/dc-acrobat-sdk-docs/acrobatsdk/#pdf-reference), 2022.
 
 
 ## Viewers
