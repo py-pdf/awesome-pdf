@@ -5,6 +5,14 @@ A curated list of resources around PDF files
 
 * PDF Association: [PDF Specification Index](https://www.pdfa.org/resource/pdf-specification-index/), 2021.
 * Jindrich Kubec, Jiri Sejtko: [X is not enough! Grab the PDF by the tail!](https://www.virusbulletin.com/uploads/pdf/conference_slides/2011/Kubec-Sejtko-VB2011.pdf) at [Virus Bulletin](https://www.virusbulletin.com/), 2011.
+* Selected compilation of PDF Standards from the [Adobe Open Source Reference](https://web.archive.org/web/20220827074128/https://opensource.adobe.com/dc-acrobat-sdk-docs/acrobatsdk/#pdf-reference), 2022.
+  1. [PDF Reference 1.0](https://web.archive.org/web/20220827074128/https://opensource.adobe.com/dc-acrobat-sdk-docs/pdfstandards/pdfreference1.0.pdf)
+  2. [PDF Reference 1.2](https://web.archive.org/web/20220827074128/https://opensource.adobe.com/dc-acrobat-sdk-docs/pdfstandards/pdfreference1.2.pdf)
+  3. [PDF Reference 1.3](https://web.archive.org/web/20220827074128/https://opensource.adobe.com/dc-acrobat-sdk-docs/pdfstandards/pdfreference1.3.pdf)
+  4. [PDF Reference 1.4](https://web.archive.org/web/20220827074128/https://opensource.adobe.com/dc-acrobat-sdk-docs/pdfstandards/pdfreference1.4.pdf)
+  5. [PDF Reference 1.5 (v6)](https://web.archive.org/web/20220827074128/https://opensource.adobe.com/dc-acrobat-sdk-docs/pdfstandards/pdfreference1.5_v6.pdf)
+  6. [PDF Reference 1.6](https://web.archive.org/web/20220827074128/https://opensource.adobe.com/dc-acrobat-sdk-docs/pdfstandards/pdfreference1.6.pdf)
+  7. [PDF Reference 1.7 (ISO 32000, 2008)](https://web.archive.org/web/20220827074128/https://opensource.adobe.com/dc-acrobat-sdk-docs/pdfstandards/PDF32000_2008.pdf)
 
 
 ## Viewers
