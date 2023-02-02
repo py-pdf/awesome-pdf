@@ -13,6 +13,7 @@ A curated list of resources around PDF files
   5. [PDF Reference 1.5 (v6)](https://web.archive.org/web/20220827074128/https://opensource.adobe.com/dc-acrobat-sdk-docs/pdfstandards/pdfreference1.5_v6.pdf)
   6. [PDF Reference 1.6](https://web.archive.org/web/20220827074128/https://opensource.adobe.com/dc-acrobat-sdk-docs/pdfstandards/pdfreference1.6.pdf)
   7. [PDF Reference 1.7 (ISO 32000, 2008)](https://web.archive.org/web/20220827074128/https://opensource.adobe.com/dc-acrobat-sdk-docs/pdfstandards/PDF32000_2008.pdf)
+* Adobe: [XMP Specification Part 3](https://github.com/adobe/xmp-docs/blob/master/XMPSpecifications/XMPSpecificationPart3.pdf), January 2020.
 
 
 ## Viewers
