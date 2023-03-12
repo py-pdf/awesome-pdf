@@ -54,9 +54,7 @@ Anything that's used to edit an existing PDF file:
 
 * [Pdfalyzer](https://github.com/michelcrypt4d4mus/pdfalyzer): PDF analysis tool to visualize the internal data structure of a PDF in large and colorful diagrams as well as scanning the binary streams embedded in the PDF against a collection of malicious PDF specific YARA rules.
 * [Malicious PDF Generator](https://github.com/jonaslejon/malicious-pdf): generate a bunch of malicious pdf files with phone-home functionality
-* [pdfbox](https://pdfbox.apache.org/1.8/commandline.html): tool in java to browse internally a pdf. There seems to be a mistake in the command:
-               `pdfbox-app-x.y.z.jar debug pdf_file`
-               download link : https://pdfbox.apache.org/download.cgi
+* [pdfbox](https://pdfbox.apache.org/1.8/commandline.html): tool in java to browse internally a pdf. [Download](https://pdfbox.apache.org/download.cgi) and use as `pdfbox-app-x.y.z.jar debug pdf_file`
 
 ## Multi-Purpose Libraries
 
