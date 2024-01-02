@@ -19,10 +19,11 @@ A curated list of resources around PDF files
 
 ## Viewers
 
-* [KOReader](https://github.com/koreader/koreader): a document viewer primarily aimed at e-ink readers
+* [KOReader](https://github.com/koreader/koreader): a document viewer primarily aimed at e-ink readers also available on Android
 * [react-native-pdf](https://github.com/wonday/react-native-pdf): a react native PDF view component
 * [PdfViewPager](https://github.com/voghDev/PdfViewPager): Android widget to display PDF documents in your Activities or Fragments
 * [vue-pdf](https://github.com/FranckFreiburger/vue-pdf): vue.js pdf viewer
+* [Librera FD](https://github.com/foobnix/LibreraReader): a document viewer for Android with customizable text-to-speech
 
 ## Data Extraction
 
