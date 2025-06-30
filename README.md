@@ -69,3 +69,4 @@ Anything that's used to edit an existing PDF file:
 * [pdfcpu](https://github.com/pdfcpu/pdfcpu) ![](https://shields.io/badge/-extract-inactive)  ![](https://shields.io/badge/-manipulate-inactive) ![](https://shields.io/badge/-create-inactive): batch processing and scripting via a rich command line
 * [pdf-lib](https://github.com/Hopding/pdf-lib)  ![](https://shields.io/badge/-manipulate-inactive) ![](https://shields.io/badge/-create-inactive): Create and modify PDF documents in any JavaScript environment
 * [HexaPDF](https://hexapdf.gettalong.org): ![](https://shields.io/badge/-extract-inactive) ![](https://shields.io/badge/-manipulate-inactive) ![](https://shields.io/badge/-create-inactive): A pure Ruby PDF creation and manipulation library
+* [ComPDF](https://github.com/ComPDFKit/compdfkit-web-example-nextjs): Developer-friendly PDF SDK for cross-platform integration, supporting viewing, signing, annotations, and forms of PDF documents.
