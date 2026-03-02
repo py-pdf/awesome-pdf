@@ -37,6 +37,7 @@ A curated list of resources around PDF files
 
 Anything that can produce PDF files from scratch:
 
+* [em-dee-pdf](https://github.com/brendandebeasi/em-dee-pdf): Rust CLI that converts Markdown to PDF via Typst with 18 built-in themes, LaTeX math, and syntax highlighting.
 * [fpdf2](https://pypi.org/project/fpdf2/): An Open Source Python library for generating PDFs
 * pdflatex (e.g. in [TexLive](https://www.tug.org/texlive/)): A LaTeX-to-PDF converter
 * [reportlab](https://pypi.org/project/reportlab/): An Open Source Python library for generating PDFs and graphics.
