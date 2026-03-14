@@ -44,6 +44,7 @@ Anything that can produce PDF files from scratch:
 * [react-pdf](https://github.com/diegomura/react-pdf): Create PDF files using React
 * [markdown-pdf](https://github.com/alanshaw/markdown-pdf): Markdown to PDF converter
 * [mpdf](https://github.com/mpdf/mpdf): PHP library generating PDF files from UTF-8 encoded HTML
+* [Resumx](https://github.com/resumx/resumx): Markdown resume renderer with auto page-fitting that outputs PDF, HTML, DOCX, and PNG
 
 ## Manipulators
 
