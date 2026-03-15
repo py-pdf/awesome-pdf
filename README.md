@@ -58,6 +58,10 @@ Anything that's used to edit an existing PDF file:
 * [Malicious PDF Generator](https://github.com/jonaslejon/malicious-pdf): generate a bunch of malicious pdf files with phone-home functionality
 * [pdfbox](https://pdfbox.apache.org/1.8/commandline.html): tool in java to browse internally a pdf. [Download](https://pdfbox.apache.org/download.cgi) and use as `pdfbox-app-x.y.z.jar debug pdf_file`
 
+## Online Tools
+
+* [PDFGem](https://pdfgem.io/): free browser-based PDF tools — merge, split, compress, OCR, sign, convert, and more. All processing runs client-side via WebAssembly; files never leave the browser.
+
 ## Multi-Purpose Libraries
 
 * [pdftk](https://www.pdflabs.com/tools/pdftk-server/): command-line tool for working with PDFs. It is commonly used for client-side scripting or server-side processing of PDFs.
