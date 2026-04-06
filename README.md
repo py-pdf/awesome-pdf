@@ -33,6 +33,7 @@ A curated list of resources around PDF files
 * [camelot](https://github.com/atlanhq/camelot): PDF Table Extraction
 * [awesome-document-understanding](https://github.com/tstanislawek/awesome-document-understanding): A curated list of resources for Document Understanding (DU) topic
 
+* [Iteration Layer](https://iterationlayer.com): a document extraction API that extracts structured data from PDFs, images, DOCX, and text files using AI
 ## Generators
 
 Anything that can produce PDF files from scratch:
