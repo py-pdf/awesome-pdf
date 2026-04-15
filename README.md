@@ -31,6 +31,7 @@ A curated list of resources around PDF files
     * [pdfplumber](https://github.com/jsvine/pdfplumber): Plumb a PDF for detailed information about each text character, rectangle, and line. Plus: Table extraction and visual debugging.
 * [Tabula](https://github.com/tabulapdf/tabula): an application for extracting tables
 * [camelot](https://github.com/atlanhq/camelot): PDF Table Extraction
+* [pdfmux](https://github.com/NameetP/pdfmux): a Python orchestrator that classifies each PDF page (digital text, scanned, tables, mixed) and routes it to the optimal backend (PyMuPDF, Docling, RapidOCR, Gemini Flash). Emits Markdown plus a per-page confidence score so callers know which pages to trust. Ships with an MCP server.
 * [awesome-document-understanding](https://github.com/tstanislawek/awesome-document-understanding): A curated list of resources for Document Understanding (DU) topic
 
 ## Generators
