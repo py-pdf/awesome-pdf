@@ -50,6 +50,7 @@ Anything that can produce PDF files from scratch:
 Anything that's used to edit an existing PDF file:
 
 * [pdfarranger](https://github.com/pdfarranger/pdfarranger): a small python-gtk application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using a graphical interface
+* [BayMaxHome PDF Tools](https://liaopengdong.github.io/pdf-tools/): free browser-based PDF tools for merging, splitting, rotating, converting, watermarking, numbering, and editing PDF files
 * [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF): adds an OCR text layer to scanned PDF files, allowing them to be searched
 
 ## File Analysis / Security
