@@ -51,6 +51,7 @@ Anything that's used to edit an existing PDF file:
 
 * [pdfarranger](https://github.com/pdfarranger/pdfarranger): a small python-gtk application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using a graphical interface
 * [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF): adds an OCR text layer to scanned PDF files, allowing them to be searched
+* [MergeCraft](https://mergecraft.app): free browser-based toolkit to merge, split, compress and rotate PDFs or mix them with images — fully client-side via WebAssembly, so files never leave the device
 
 ## File Analysis / Security
 
