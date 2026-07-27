@@ -23,6 +23,7 @@ A curated list of resources around PDF files
 * [react-native-pdf](https://github.com/wonday/react-native-pdf): a react native PDF view component
 * [PdfViewPager](https://github.com/voghDev/PdfViewPager): Android widget to display PDF documents in your Activities or Fragments
 * [vue-pdf](https://github.com/FranckFreiburger/vue-pdf): vue.js pdf viewer
+* [TorReader](https://github.com/FelixNgH/TorreaderPDF): a portable desktop PDF viewer and editor for Linux and Windows, built on Qt6 and PDFium
 
 ## Data Extraction
 
