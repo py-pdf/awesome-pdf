@@ -44,6 +44,7 @@ Anything that can produce PDF files from scratch:
 * [react-pdf](https://github.com/diegomura/react-pdf): Create PDF files using React
 * [markdown-pdf](https://github.com/alanshaw/markdown-pdf): Markdown to PDF converter
 * [mpdf](https://github.com/mpdf/mpdf): PHP library generating PDF files from UTF-8 encoded HTML
+* [MintPDF](https://github.com/TrendTweekers/mintpdf): Markdown or HTML to PDF over a REST API and an MCP server, built on headless Chromium
 
 ## Manipulators
 
