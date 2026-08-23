@@ -33,6 +33,9 @@ A curated list of resources around PDF files
 * [camelot](https://github.com/atlanhq/camelot): PDF Table Extraction
 * [awesome-document-understanding](https://github.com/tstanislawek/awesome-document-understanding): A curated list of resources for Document Understanding (DU) topic
 
+
+* [Flashdown](https://flashdown.co.in): free, private, in-browser converter that turns PDF (plus DOCX and TXT) into clean Markdown - no upload, no signup, works offline
+
 ## Generators
 
 Anything that can produce PDF files from scratch:
