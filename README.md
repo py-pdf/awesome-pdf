@@ -44,6 +44,7 @@ Anything that can produce PDF files from scratch:
 * [react-pdf](https://github.com/diegomura/react-pdf): Create PDF files using React
 * [markdown-pdf](https://github.com/alanshaw/markdown-pdf): Markdown to PDF converter
 * [mpdf](https://github.com/mpdf/mpdf): PHP library generating PDF files from UTF-8 encoded HTML
+* [imprint-pdf](https://github.com/263311487-ux/imprint-pdf): AI-native, print-grade PDF generator — Markdown in, publisher-quality PDF out, with a built-in 0–100 print-quality report
 
 ## Manipulators
 
