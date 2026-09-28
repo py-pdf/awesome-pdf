@@ -18,6 +18,7 @@ A curated list of resources around PDF files
 
 
 ## Viewers
+- [File Converter](https://fileontap.com/) - Free browser-local image and PDF conversion, including image↔PDF workflows; no upload or account required.
 
 * [KOReader](https://github.com/koreader/koreader): a document viewer primarily aimed at e-ink readers
 * [react-native-pdf](https://github.com/wonday/react-native-pdf): a react native PDF view component
