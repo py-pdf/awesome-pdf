@@ -32,6 +32,7 @@ A curated list of resources around PDF files
 * [Tabula](https://github.com/tabulapdf/tabula): an application for extracting tables
 * [camelot](https://github.com/atlanhq/camelot): PDF Table Extraction
 * [awesome-document-understanding](https://github.com/tstanislawek/awesome-document-understanding): A curated list of resources for Document Understanding (DU) topic
+* [Ajadofile](https://www.ajadofile.com/extract-tables): free online tool to extract tables from PDFs to Excel/CSV — no installation or signup
 
 ## Generators
 
