@@ -44,6 +44,7 @@ Anything that can produce PDF files from scratch:
 * [react-pdf](https://github.com/diegomura/react-pdf): Create PDF files using React
 * [markdown-pdf](https://github.com/alanshaw/markdown-pdf): Markdown to PDF converter
 * [mpdf](https://github.com/mpdf/mpdf): PHP library generating PDF files from UTF-8 encoded HTML
+* [Rubrol](https://github.com/maxcomperatore/rubrol): Sub-millisecond Typst-based PDF engine and HTTP sidecar for high-throughput transactional document generation and hybrid PDF/A-3b files.
 
 ## Manipulators
 
