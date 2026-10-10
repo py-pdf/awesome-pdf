@@ -19,6 +19,7 @@ A curated list of resources around PDF files
 
 ## Viewers
 
+* [BarePDF](https://github.com/Woffluon/BarePDF): a fast, lightweight, zero-telemetry Windows desktop PDF reader built with Rust and Slint
 * [KOReader](https://github.com/koreader/koreader): a document viewer primarily aimed at e-ink readers
 * [react-native-pdf](https://github.com/wonday/react-native-pdf): a react native PDF view component
 * [PdfViewPager](https://github.com/voghDev/PdfViewPager): Android widget to display PDF documents in your Activities or Fragments
