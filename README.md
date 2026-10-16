@@ -23,6 +23,7 @@ A curated list of resources around PDF files
 * [react-native-pdf](https://github.com/wonday/react-native-pdf): a react native PDF view component
 * [PdfViewPager](https://github.com/voghDev/PdfViewPager): Android widget to display PDF documents in your Activities or Fragments
 * [vue-pdf](https://github.com/FranckFreiburger/vue-pdf): vue.js pdf viewer
+* [LightRead](https://github.com/yzfly/LightRead): an open-source, local-first PDF and ebook reader with MuPDF/PDFium rendering, annotations, and text-to-speech.
 
 ## Data Extraction
 
