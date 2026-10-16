@@ -23,6 +23,7 @@ A curated list of resources around PDF files
 * [react-native-pdf](https://github.com/wonday/react-native-pdf): a react native PDF view component
 * [PdfViewPager](https://github.com/voghDev/PdfViewPager): Android widget to display PDF documents in your Activities or Fragments
 * [vue-pdf](https://github.com/FranckFreiburger/vue-pdf): vue.js pdf viewer
+* [Glim](https://github.com/NeoPanic/Glim): a free, open-source macOS viewer for read-only PDFs alongside Markdown, images, JSON, CSV and source code
 
 ## Data Extraction
 
