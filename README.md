@@ -34,6 +34,7 @@ A curated list of resources around PDF files
 * [camelot](https://github.com/atlanhq/camelot): PDF Table Extraction
 * [xberg](https://github.com/xberg-io/xberg): a Rust-core document intelligence framework that extracts text, tables, metadata, and images from PDFs and 97+ formats, with optional Tesseract OCR and bindings for 11 languages.
 * [awesome-document-understanding](https://github.com/tstanislawek/awesome-document-understanding): A curated list of resources for Document Understanding (DU) topic
+* [invoice2data](https://github.com/invoice-x/invoice2data): Swiss-army knife for structured data extraction from pdf documents.
 
 ## Generators
 
