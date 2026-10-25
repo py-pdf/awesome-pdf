@@ -31,6 +31,7 @@ A curated list of resources around PDF files
     * [pdfplumber](https://github.com/jsvine/pdfplumber): Plumb a PDF for detailed information about each text character, rectangle, and line. Plus: Table extraction and visual debugging.
 * [Tabula](https://github.com/tabulapdf/tabula): an application for extracting tables
 * [camelot](https://github.com/atlanhq/camelot): PDF Table Extraction
+* [PDF Statement Batch](https://github.com/LydiaTools/pdf-statement-batch): a browser app to review text-based PDF statement transactions and export Excel, with local saved batches.
 * [awesome-document-understanding](https://github.com/tstanislawek/awesome-document-understanding): A curated list of resources for Document Understanding (DU) topic
 
 ## Generators
