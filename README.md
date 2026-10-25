@@ -24,6 +24,7 @@ A curated list of resources around PDF files
 * [PdfViewPager](https://github.com/voghDev/PdfViewPager): Android widget to display PDF documents in your Activities or Fragments
 * [vue-pdf](https://github.com/FranckFreiburger/vue-pdf): vue.js pdf viewer
 * [Librera FD](https://github.com/foobnix/LibreraReader): a document viewer for Android with customizable text-to-speech
+* [ng2-pdfjs-viewer](https://github.com/intbot/ng2-pdfjs-viewer): a comprehensive Angular PDF viewer built on PDF.js with annotations, forms, signatures, search, and read-aloud
 
 ## Data Extraction
 
@@ -32,6 +33,7 @@ A curated list of resources around PDF files
     * [pdfplumber](https://github.com/jsvine/pdfplumber): Plumb a PDF for detailed information about each text character, rectangle, and line. Plus: Table extraction and visual debugging.
 * [Tabula](https://github.com/tabulapdf/tabula): an application for extracting tables
 * [camelot](https://github.com/atlanhq/camelot): PDF Table Extraction
+* [xberg](https://github.com/xberg-io/xberg): a Rust-core document intelligence framework that extracts text, tables, metadata, and images from PDFs and 97+ formats, with optional Tesseract OCR and bindings for 11 languages.
 * [awesome-document-understanding](https://github.com/tstanislawek/awesome-document-understanding): A curated list of resources for Document Understanding (DU) topic
 
 ## Generators
