@@ -53,6 +53,7 @@ Anything that's used to edit an existing PDF file:
 
 * [pdfarranger](https://github.com/pdfarranger/pdfarranger): a small python-gtk application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using a graphical interface
 * [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF): adds an OCR text layer to scanned PDF files, allowing them to be searched
+* [toolkit.bot/pdf2epub](https://toolkit.bot/pdf2epub): converts PDF to reflowable EPUB3 with EPUB Accessibility 1.1 and WCAG 2.2 AA compliance. Free web service with REST API. [Source](https://github.com/bernardotorres/pdf2epub).
 
 ## File Analysis / Security
 
