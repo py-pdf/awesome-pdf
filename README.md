@@ -53,6 +53,7 @@ Anything that's used to edit an existing PDF file:
 
 * [pdfarranger](https://github.com/pdfarranger/pdfarranger): a small python-gtk application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using a graphical interface
 * [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF): adds an OCR text layer to scanned PDF files, allowing them to be searched
+* [MiOffice](https://mioffice.ai): AI office suite with 66+ browser-based applications for PDF conversion, compression, merging, splitting, and document scanning. Runs entirely client-side via WebAssembly — documents never leave the device.
 
 ## File Analysis / Security
 
