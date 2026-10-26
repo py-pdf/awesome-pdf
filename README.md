@@ -55,6 +55,7 @@ Anything that's used to edit an existing PDF file:
 
 * [pdfarranger](https://github.com/pdfarranger/pdfarranger): a small python-gtk application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using a graphical interface
 * [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF): adds an OCR text layer to scanned PDF files, allowing them to be searched
+* [Rewrite](https://github.com/SamratDuttaOfficial/Rewrite): a desktop editor that highlights, annotates and edits PDFs, merges and reorders pages, and converts them to Word
 
 ## File Analysis / Security
 
