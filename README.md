@@ -51,6 +51,8 @@ Anything that can produce PDF files from scratch:
 
 ## Manipulators
 
+* [Drop & Clean](https://github.com/AIsNeverDie/Almond) ([Web](https://dropcleandone.com/tools/pdf-redact/)): In-browser vector PDF redaction, N-up imposition, Bates numbering, and metadata removal with zero server uploads.
+
 Anything that's used to edit an existing PDF file:
 
 * [pdfarranger](https://github.com/pdfarranger/pdfarranger): a small python-gtk application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using a graphical interface
