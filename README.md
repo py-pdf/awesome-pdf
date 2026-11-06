@@ -34,6 +34,7 @@ A curated list of resources around PDF files
 * [Tabula](https://github.com/tabulapdf/tabula): an application for extracting tables
 * [camelot](https://github.com/atlanhq/camelot): PDF Table Extraction
 * [xberg](https://github.com/xberg-io/xberg): a Rust-core document intelligence framework that extracts text, tables, metadata, and images from PDFs and 97+ formats, with optional Tesseract OCR and bindings for 11 languages.
+* [all2md](https://github.com/thomas-villani/all2md): a Python library and CLI that converts PDFs (with table detection and optional Tesseract OCR) and 40+ other formats to Markdown, and Markdown back to DOCX, PDF and more.
 * [awesome-document-understanding](https://github.com/tstanislawek/awesome-document-understanding): A curated list of resources for Document Understanding (DU) topic
 * [invoice2data](https://github.com/invoice-x/invoice2data): Swiss-army knife for structured data extraction from pdf documents.
 
