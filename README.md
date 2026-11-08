@@ -19,6 +19,7 @@ A curated list of resources around PDF files
 
 ## Viewers
 
+* [Athena Reader](https://athena-reader.com/): a free ebook and document reader for EPUB, PDF, Word, TXT and more with offline reading, system TTS, highlights/notes, and AI Q&A with citations
 * [KOReader](https://github.com/koreader/koreader): a document viewer primarily aimed at e-ink readers also available on Android
 * [react-native-pdf](https://github.com/wonday/react-native-pdf): a react native PDF view component
 * [PdfViewPager](https://github.com/voghDev/PdfViewPager): Android widget to display PDF documents in your Activities or Fragments
