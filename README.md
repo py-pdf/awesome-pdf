@@ -1,5 +1,5 @@
 # Awesome PDF  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-A curated list of resources around PDF files
+A curated list of free software (FOSS) resources around PDF files
 
 ## The File Format
 
@@ -32,9 +32,8 @@ A curated list of resources around PDF files
 * [pdfminer.six](https://pypi.org/project/pdfminer.six/): a Python library for extracting information from PDF documents
     * [pdfplumber](https://github.com/jsvine/pdfplumber): Plumb a PDF for detailed information about each text character, rectangle, and line. Plus: Table extraction and visual debugging.
 * [Tabula](https://github.com/tabulapdf/tabula): an application for extracting tables
-* [camelot](https://github.com/atlanhq/camelot): PDF Table Extraction
+* [camelot](https://github.com/camelot-dev/camelot): PDF Table Extraction
 * [xberg](https://github.com/xberg-io/xberg): a Rust-core document intelligence framework that extracts text, tables, metadata, and images from PDFs and 97+ formats, with optional Tesseract OCR and bindings for 11 languages.
-* [awesome-document-understanding](https://github.com/tstanislawek/awesome-document-understanding): A curated list of resources for Document Understanding (DU) topic
 * [invoice2data](https://github.com/invoice-x/invoice2data): Swiss-army knife for structured data extraction from pdf documents.
 
 ## Generators
