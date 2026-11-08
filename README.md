@@ -55,6 +55,7 @@ Anything that's used to edit an existing PDF file:
 
 * [pdfarranger](https://github.com/pdfarranger/pdfarranger): a small python-gtk application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using a graphical interface
 * [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF): adds an OCR text layer to scanned PDF files, allowing them to be searched
+* [Paperwing](https://github.com/rohanvijaykumar/paperwing): an offline desktop PDF editor for Windows and macOS, built on PDF.js, qpdf, PyMuPDF and Ghostscript compiled to WebAssembly, that edits text and images, signs, fills forms, runs OCR, redacts, compresses and merges or splits PDFs
 
 ## File Analysis / Security
 
