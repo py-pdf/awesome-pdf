@@ -35,6 +35,7 @@ A curated list of free software (FOSS) resources around PDF files
 * [camelot](https://github.com/camelot-dev/camelot): PDF Table Extraction
 * [xberg](https://github.com/xberg-io/xberg): a Rust-core document intelligence framework that extracts text, tables, metadata, and images from PDFs and 97+ formats, with optional Tesseract OCR and bindings for 11 languages.
 * [invoice2data](https://github.com/invoice-x/invoice2data): Swiss-army knife for structured data extraction from pdf documents.
+* [StatementFlow AI](https://github.com/wangguode/statementflow-ai): Open-source client-side bank statement PDF to CSV/Excel extractor with deterministic cent-level balance reconciliation (`Opening + Credits - Debits = Ending`).
 
 ## Generators
 
